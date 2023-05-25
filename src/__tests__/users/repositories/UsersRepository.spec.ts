@@ -1,3 +1,4 @@
+import { User } from "modules/users/model/User";
 import { validate } from "uuid";
 
 import { UsersRepository } from "../../../modules/users/repositories/implementations/UsersRepository";
